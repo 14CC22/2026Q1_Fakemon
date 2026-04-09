@@ -18,18 +18,18 @@
 
     
     {
-      "id": "Sean",
+      "id": "Harden",
       "name": "🧱 Hard",
-      "desc": "Makes the opponent feel pain after they hit, because it hurts to hit a wall.",
+      "desc": "Makes the opponent feel pain after they hit, because it hurts to hit a wall. Has a chance to increase DEF",
       "speed": "slow",
       "damage": [7, 12],
-      "status": null,
-      "statusChance": 0
+      "status": "defense",
+      "statusChance": 0.7
     },
 
     
     {
-      "id": "Sean",
+      "id": "Nothing",
       "name": "💨 Nothing...",
       "desc": "Its a wall. what is it supposd to do?",
       "speed": "medium",
@@ -40,7 +40,7 @@
 
     
     {
-      "id": "Sean",
+      "id": "Repair",
       "name": "🛠️ Repair",
       "desc": "Restore around 30 HP.",
       "speed": "fast",
