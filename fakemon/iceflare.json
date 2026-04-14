@@ -8,7 +8,7 @@
   "hp": 400,       
   "power": 400,    
   "speed": 100,    
-  "defense": 99, 
+  "defense": 400, 
   "accuracy": 100, 
 
   "description": "A short description of your Fakemon.",
