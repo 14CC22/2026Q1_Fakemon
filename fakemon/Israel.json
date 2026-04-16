@@ -44,7 +44,7 @@
       "name": "Missile Defence",
       "desc": "A missile defence system that will prevent incoming missiles. Sometimes works but sometimes doesn't",
       "speed": "fast",
-      "damage": [-10, 0],
+      "damage": [-10, -20],
       "status": null,
       "statusChance": 0
     },
@@ -55,7 +55,7 @@
       "name": "Help",
       "desc": "Brings in an allied country that is definitely not the us to assist in gear. Pretty slow however",
       "speed": "slow",
-      "damage": [-10, -30],
+      "damage": [-30, -50],
       "status": null,
       "statusChance": 0
     }
